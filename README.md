@@ -1,6 +1,6 @@
 # Creator: Israel Showell
 # Start Date: 8/1/2024
-# End Date: 8//2024
+# End Date: 8/3/2024
 # Project: Stock Master - Remastered
 # Version: 1.00
 
@@ -18,7 +18,7 @@ This is a project from Headstater AI that I completed to practice and hone the f
 
 
 # Version History:
-# V-1.00: (7-27-24)
+# V-1.00: (8-1-3-24)
 Initial Version <br>
 Uploaded to Github <br>
 

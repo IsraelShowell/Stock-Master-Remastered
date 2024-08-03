@@ -10,8 +10,11 @@
 /coverage
 
 # next.js
-/.next/
+/.next
 /out/
+
+#src
+/src/firebase.js
 
 # production
 /build
