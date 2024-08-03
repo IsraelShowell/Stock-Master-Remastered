@@ -18,7 +18,7 @@ This is a project from Headstater AI that I completed to practice and hone the f
 - Firebase, React, Next.js, Material UI (Tech Stack)
 */
 
-// Ensures this component can use client-side rendering
+//Ensures this component can use client-side rendering
 'use client'
 
 // Import necessary libraries and functions
@@ -90,7 +90,7 @@ export default function Home() {
         setUser(new User(username, password, loggedInUser.uid));
       })
       .catch((error) => {
-        console.error('Error logging in:', error);
+        alert('Error logging in:', error);
       });
   };
 
@@ -103,7 +103,7 @@ export default function Home() {
         setIsRegistering(false);
       })
       .catch((error) => {
-        console.error('Error registering:', error);
+        alert('Error registering:', error);
       });
   };
 
